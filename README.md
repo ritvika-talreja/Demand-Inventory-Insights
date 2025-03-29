@@ -1,1 +1,1 @@
-# VisionFashionAI
+# Demand-Inventory-Insights
